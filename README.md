@@ -12,5 +12,5 @@ JavaScript: Used to handle user interactions and produce sound upon key clicks.
 HTML: Provides the structure and layout of the virtual piano interface.                              
 CSS: Styles the piano keys and ensures the app is visually appealing and responsive.
 
-You can try the live demo: https://tamaraa20.github.io/Piano/
+**You can try the live demo:** https://tamaraa20.github.io/Piano/
 
